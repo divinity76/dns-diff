@@ -596,3 +596,10 @@ Diff:
 -  ),
  )
 ```
+
+Requirements: php-cli, git, dig.
+
+Installation: 
+```
+wget 'https://raw.githubusercontent.com/divinity76/dns-diff/main/src/dns_diff.php'
+```
